@@ -1,0 +1,2 @@
+# peer2peer
+Aplicatie de tipul peer-to-peer pentru partajarea fisierelor. Programul foloseste socket-uri pentru comunicatie, putind fi rulate pe masini diferite astfel: programul client poate fi rulat de catre orice utilizator, iar programul server(tracker-ul) poate fi rulat doar de autor, care este si responsabil cu pornirea/oprirea serviciului. Programul server este capabil sa serveasca simultan mai multe cereri de transfer provenite de la "colegii" sai din retea. Fisierele dorite pot fi cautate conform unor criterii (nume, tip, lungime etc.) in cadrul "retelei".
