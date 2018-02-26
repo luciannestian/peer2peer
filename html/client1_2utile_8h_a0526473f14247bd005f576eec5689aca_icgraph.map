@@ -1,0 +1,8 @@
+<map id="eroare" name="eroare">
+<area shape="rect" id="node2" href="$client1_2client_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="299,22,349,48"/>
+<area shape="rect" id="node3" href="$client1_2server_8c.html#abc22794e207bfa9e9216e1a282f68da2" title="raspunde" alt="" coords="287,98,361,124"/>
+<area shape="rect" id="node4" href="$client1_2utile_8h.html#a4e714721b7464b0f1381dd62bd9984a1" title="SendDatagram" alt="" coords="121,135,230,162"/>
+<area shape="rect" id="node5" href="$client1_2utile_8h.html#a5d15a6cf969b94bf7879a75af3a0e69f" title="ReceiveDatagram" alt="" coords="112,34,239,60"/>
+<area shape="rect" id="node6" href="$client1_2utile_8h.html#a8c4aca3630b4b2eca43f577a74a4b468" title="SendACK" alt="" coords="135,186,215,212"/>
+<area shape="rect" id="node7" href="$client1_2utile_8h.html#ad8f7496b6e2df70048638d8de9da78bf" title="ReceiveACK" alt="" coords="126,236,225,263"/>
+</map>
